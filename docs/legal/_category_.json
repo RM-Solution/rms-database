@@ -1,0 +1,11 @@
+{
+  "position": 2,
+  "label": "Правовые документы",
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "title": "Правовые документы",
+    "description": "Данная категория включает в себя информацию обо всех правовых документак компании РМ Солюшн"
+  }
+}
